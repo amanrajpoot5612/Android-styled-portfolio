@@ -2,7 +2,7 @@
 
 A unique, interactive portfolio website designed to emulate a mobile phone interface, providing an engaging and memorable way to showcase projects and personal information.
 
-![Portfolio Preview](https://portfolio.amanrajput.online)
+![Portfolio Preview](https://res.cloudinary.com/dwujwvqkv/image/upload/v1775613564/253ec49b-e2b2-47cf-b08d-6767aed98813.png)
 
 ## 🌟 Overview
 
