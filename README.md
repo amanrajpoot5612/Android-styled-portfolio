@@ -143,7 +143,7 @@ portfolio-android/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/amanrajpoot5612/portfolio-android-style
+   git clone https://github.com/amanrajpoot5612/portfolio-android-style || https://github.com/amanrajpoot5612/Android-styled-portfolio
    cd portfolio-android
    ```
 
